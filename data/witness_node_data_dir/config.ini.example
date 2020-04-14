@@ -35,8 +35,8 @@ p2p-seed-node = seed-1.blockbrothers.io:2001      # @blockbrothers
 p2p-seed-node = 5.189.136.20:2001                 # @maiyude            
 p2p-seed-node = steemseed-fin.privex.io:2001      # privex (FI)         
 p2p-seed-node = steemseed-se.privex.io:2001       # privex (SE)         
-p2p-seed-node = seed.steemhunt.com:2001			      # @steemhunt Location: South Korea
-p2p-seed-node = 95.217.143.121:2001				        # @zzan.witnesses in Philland
+p2p-seed-node = seed.steemhunt.com:2001           # @steemhunt Location: South Korea
+p2p-seed-node = 95.217.143.121:2001               # @zzan.witnesses in Philland
 p2p-seed-node = seednode.dlike.io:2001            # @Dlike Location Germany
 
 
