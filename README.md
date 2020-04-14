@@ -1,4 +1,5 @@
 # Steem-in-a-box by @someguy123
+* ayogom modified edition.
 
 **Steem-in-a-box** is a toolkit for using the Steem [docker images](https://hub.docker.com/r/someguy123/steem/tags/) published by @someguy123.
 
@@ -23,7 +24,7 @@ Features:
 To install a witness or seed node:
 
 ```bash
-git clone https://github.com/someguy123/steem-docker.git
+git clone https://github.com/ayogom/steem-docker.git
 cd steem-docker
 # If you don't already have a docker installation, this will install it for you
 ./run.sh install_docker
