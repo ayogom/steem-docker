@@ -38,8 +38,9 @@ p2p-seed-node = steemseed-se.privex.io:2001       # privex (SE)
 p2p-seed-node = seed.steemhunt.com:2001           # @steemhunt Location: South Korea
 p2p-seed-node = seed.steemzzang.com:2001          # @zzan.witnesses in Philland
 p2p-seed-node = seednode.dlike.io:2001            # @Dlike Location Germany
-p2p-seed-node = seed.steemer.app:2001             # @Bukio 
-
+p2p-seed-node = seed.steemer.app:2001             # @Bukio
+p2p-seed-node = Seed.Supporter.dev:2001           # @dev.Supports
+p2p-seed-node = seed.goodhello.net:2001           # @helloworld.wit
 
 # Pairs of [BLOCK_NUM,BLOCK_ID] that should be enforced as checkpoints.
 # checkpoint =
