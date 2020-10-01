@@ -218,7 +218,7 @@ fi
 : ${DK_TAG="${DK_TAG_BASE}:latest"}
 : ${DK_TAG_FULL="${DK_TAG_BASE}:latest-full"}
 : ${SHM_DIR="/dev/shm"}
-: ${REMOTE_WS="ws://67.171.166.34:8090"}
+: ${REMOTE_WS="ws://api.steemzzang.com:8090"}
 # Justyy node
 : ${REMOTE_RPC="https://steemd.privex.io"}
 # Amount of time in seconds to allow the docker container to stop before killing it.
